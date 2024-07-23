@@ -1,3 +1,3 @@
- # use anaconda to oprn the pytonfile
+ # use anaconda to open the pytonfile
 
 
